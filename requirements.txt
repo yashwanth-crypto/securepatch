@@ -1,0 +1,36 @@
+# SECUREPATCH Requirements
+# Python 3.10+
+
+# Core dependencies
+requests==2.31.0
+bandit==1.7.5
+
+# For dataset handling
+PyYAML==6.0.1
+
+# For experiments and logging
+tqdm==4.66.1
+rich==13.7.0
+
+# For JSON handling (built-in, but specify for clarity)
+# json (built-in)
+
+# For AST parsing (built-in)
+# ast (built-in)
+
+# For file operations (built-in)
+# pathlib (built-in)
+
+# Optional: For visualization
+matplotlib==3.8.2
+numpy==1.26.2
+
+# Optional: For paper reproduction
+pandas==2.1.4
+seaborn==0.13.0
+
+# Development dependencies (optional)
+pytest==7.4.3
+black==23.12.1
+flake8==6.1.0
+mypy==1.7.1
