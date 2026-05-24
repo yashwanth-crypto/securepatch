@@ -214,11 +214,17 @@ A repair is successful if and only if:
 If you use SECUREPATCH in your research, please cite our paper:
 
 ```bibtex
-@inproceedings{securepatch2026,
-  title={SECUREPATCH: A Multi-Agent LLM System for Automated Security Vulnerability Repair Achieving 99.4\% Success Rate},
-  author={Your Name},
-  booktitle={Proceedings of the International Conference on Software Engineering},
-  year={2026}
+@article{ securepatch,
+  title={SECUREPATCH: Specialized Multi-Agent Architecture with Automated Validation for Security Vulnerability Repair},
+  author={L.Yashwanth Reddy},
+  journal={AVE Trends in Intelligent Computing Systems},
+  volume={3},
+  number={1},
+  pages={23--47},
+  year={2026},
+  publisher={AVE Trends Publishing Company},
+  doi={10.64091/ATICS.2026.000283},
+  url={https://www.avepubs.com/user/journals/details/ATICS}
 }
 ```
 
@@ -226,7 +232,7 @@ If you use SECUREPATCH in your research, please cite our paper:
 
 ## 📄 Paper
 
-The full paper is available in [`paper/SECUREPATCH_COMPLETE_PAPER.pdf`](paper/SECUREPATCH_COMPLETE_PAPER.pdf).
+The full paper is available in [`SECUREPATCH.pdf`](SECUREPATCH.pdf).
 
 **Key Sections:**
 - Section 3: Multi-Agent Architecture Design
@@ -304,21 +310,6 @@ ollama run codellama:7b-instruct "def hello():"
 # Ensure Bandit version is 1.7.5+
 ```
 
----
-
-## 🤝 Contributing
-
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-**Areas for Contribution:**
-- Additional CWE categories
-- Support for other programming languages (Java, C++, JavaScript)
-- Integration with CI/CD platforms
-- Larger LLM models (Code Llama 13B/34B, GPT-4)
-- Adaptive iteration strategies
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
@@ -336,9 +327,9 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## 📧 Contact
 
-- **Author**: Your Name
-- **Email**: your.email@university.edu
-- **Paper**: [Link to paper]
+- **Author**: L.Yashwanth Reddy
+- **Email**: nadhahari44@gmail.com
+- **Paper**: [https://www.avepubs.com/user/journals/details/ATICS]
 - **Issues**: [GitHub Issues](https://github.com/yourusername/securepatch/issues)
 
 ---
@@ -351,4 +342,4 @@ If you find this project useful, please consider giving it a ⭐!
 
 ---
 
-**Last Updated**: February 2026
+**Last Updated**: May 2026
