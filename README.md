@@ -224,7 +224,7 @@ If you use SECUREPATCH in your research, please cite our paper:
   year={2026},
   publisher={AVE Trends Publishing Company},
   doi={10.64091/ATICS.2026.000283},
-  url={https://www.avepubs.com/user/journals/details/ATICS}
+  url={https://www.avepubs.com/uploads/articles/1778168681-4__ATICS-283-2026.pdf}
 }
 ```
 
@@ -329,7 +329,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 - **Author**: L.Yashwanth Reddy
 - **Email**: nadhahari44@gmail.com
-- **Paper**: [https://www.avepubs.com/user/journals/details/ATICS]
+- **Paper**: [https://www.avepubs.com/uploads/articles/1778168681-4__ATICS-283-2026.pdf]
 - **Issues**: [GitHub Issues](https://github.com/yourusername/securepatch/issues)
 
 ---
