@@ -1,6 +1,6 @@
 # SECUREPATCH: Multi-Agent LLM System for Automated Security Vulnerability Repair
 
-[![Paper](https://img.shields.io/badge/Paper-PDF-red)](paper/SECUREPATCH_COMPLETE_PAPER.pdf)
+[![Paper](https://img.shields.io/badge/Paper-PDF-red)](SECUREPATCH.pdf)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10+-green.svg)](https://www.python.org/)
 [![Code Llama](https://img.shields.io/badge/Model-Code_Llama_7B-orange.svg)](https://github.com/facebookresearch/codellama)
@@ -31,7 +31,6 @@ SECUREPATCH employs four specialized agents:
 3. **Validator Agent**: Performs syntax validation (Python AST) and security validation (Bandit)
 4. **Coordinator Agent**: Orchestrates workflow and manages iterative refinement
 
-![Architecture](paper/figures/Figure11_Architecture.jpg)
 
 ### Iterative Refinement
 
@@ -126,7 +125,7 @@ python repair_single.py --input vulnerable.py --output fixed.py --max-retries 5
 ---
 
 ## 📁 Dataset
-
+"Dataset not included in this repo — available on request"
 ### Composition
 
 Our benchmark contains **160 Python security vulnerabilities** across 8 CWE categories:
@@ -256,7 +255,7 @@ Choose based on your use case:
 ### Example Configuration
 
 ```yaml
-# configs/securepatch_3.yaml
+# "Not included in this repo — available on request"
 model:
   name: "codellama:7b-instruct"
   temperature: 0.1
