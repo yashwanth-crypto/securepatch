@@ -72,7 +72,7 @@ When validation fails, the Coordinator provides specific feedback to the Archite
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/securepatch.git
+git clone https://github.com/yashwanth-crypto/securepatch.git
 cd securepatch
 
 # Install dependencies
@@ -330,7 +330,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 - **Author**: L.Yashwanth Reddy
 - **Email**: nadhahari44@gmail.com
 - **Paper**: [https://www.avepubs.com/uploads/articles/1778168681-4__ATICS-283-2026.pdf]
-- **Issues**: [GitHub Issues](https://github.com/yourusername/securepatch/issues)
+- **Issues**: [GitHub Issues](https://github.com/yashwanth-crypto/securepatch/issues)
 
 ---
 
@@ -338,7 +338,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 If you find this project useful, please consider giving it a ⭐!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/securepatch&type=Date)](https://star-history.com/#yourusername/securepatch&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=yashwanth-crypto/securepatch&type=Date)](https://star-history.com/#yashwanth-crypto/securepatch&Date)
 
 ---
 
